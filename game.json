@@ -961,7 +961,7 @@
           "locked": false,
           "name": "Plataforma",
           "width": 64,
-          "x": 4224,
+          "x": 4288,
           "y": 320,
           "zOrder": 4,
           "numberProperties": [],
@@ -976,7 +976,7 @@
           "locked": false,
           "name": "Plataforma",
           "width": 64,
-          "x": 5632,
+          "x": 5696,
           "y": 192,
           "zOrder": 4,
           "numberProperties": [],
@@ -991,7 +991,7 @@
           "locked": false,
           "name": "Plataforma",
           "width": 64,
-          "x": 4288,
+          "x": 4352,
           "y": 320,
           "zOrder": 4,
           "numberProperties": [
@@ -1011,7 +1011,7 @@
           "locked": false,
           "name": "Plataforma",
           "width": 64,
-          "x": 5696,
+          "x": 5760,
           "y": 192,
           "zOrder": 4,
           "numberProperties": [
@@ -1341,7 +1341,7 @@
           "locked": false,
           "name": "Suelo",
           "width": 0,
-          "x": 5632,
+          "x": 5696,
           "y": 256,
           "zOrder": 4,
           "numberProperties": [],
@@ -2736,7 +2736,7 @@
           "locked": false,
           "name": "Suelo",
           "width": 0,
-          "x": 5632,
+          "x": 5696,
           "y": 320,
           "zOrder": 4,
           "numberProperties": [
@@ -3186,7 +3186,7 @@
           "locked": false,
           "name": "Plataforma",
           "width": 0,
-          "x": 5952,
+          "x": 6016,
           "y": 192,
           "zOrder": 4,
           "numberProperties": [],
@@ -3261,7 +3261,7 @@
           "locked": false,
           "name": "Plataforma",
           "width": 0,
-          "x": 6208,
+          "x": 6272,
           "y": 192,
           "zOrder": 4,
           "numberProperties": [
@@ -3281,7 +3281,7 @@
           "locked": false,
           "name": "Suelo",
           "width": 0,
-          "x": 4416,
+          "x": 4480,
           "y": 320,
           "zOrder": 4,
           "numberProperties": [
@@ -3361,7 +3361,7 @@
           "locked": false,
           "name": "Suelo",
           "width": 0,
-          "x": 5952,
+          "x": 6016,
           "y": 256,
           "zOrder": 4,
           "numberProperties": [],
@@ -3376,7 +3376,7 @@
           "locked": false,
           "name": "Suelo",
           "width": 0,
-          "x": 5952,
+          "x": 6016,
           "y": 320,
           "zOrder": 4,
           "numberProperties": [
@@ -3396,7 +3396,7 @@
           "locked": false,
           "name": "Suelo",
           "width": 0,
-          "x": 5568,
+          "x": 5632,
           "y": 320,
           "zOrder": 4,
           "numberProperties": [
@@ -3416,7 +3416,7 @@
           "locked": false,
           "name": "Suelo",
           "width": 0,
-          "x": 6016,
+          "x": 6080,
           "y": 320,
           "zOrder": 4,
           "numberProperties": [
@@ -3436,7 +3436,7 @@
           "locked": false,
           "name": "Suelo",
           "width": 0,
-          "x": 6080,
+          "x": 6144,
           "y": 320,
           "zOrder": 4,
           "numberProperties": [
@@ -3456,7 +3456,7 @@
           "locked": false,
           "name": "Suelo",
           "width": 64,
-          "x": 6144,
+          "x": 6208,
           "y": 320,
           "zOrder": 4,
           "numberProperties": [
@@ -4356,7 +4356,7 @@
           "locked": false,
           "name": "SerpienteMov",
           "width": 128,
-          "x": 5952,
+          "x": 6208,
           "y": 256,
           "zOrder": 50,
           "numberProperties": [],
@@ -4371,23 +4371,8 @@
           "locked": false,
           "name": "SerpienteFija",
           "width": 128,
-          "x": 6464,
+          "x": 7936,
           "y": 256,
-          "zOrder": 50,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "height": 128,
-          "layer": "",
-          "locked": false,
-          "name": "SerpienteFija",
-          "width": 128,
-          "x": 7360,
-          "y": -256,
           "zOrder": 50,
           "numberProperties": [
             {
@@ -4406,7 +4391,7 @@
           "locked": false,
           "name": "SerpienteMov",
           "width": 128,
-          "x": 6464,
+          "x": 6720,
           "y": 256,
           "zOrder": 50,
           "numberProperties": [
@@ -6131,7 +6116,7 @@
           "locked": false,
           "name": "Plataforma",
           "width": 0,
-          "x": 6016,
+          "x": 6080,
           "y": 192,
           "zOrder": 4,
           "numberProperties": [
@@ -6151,7 +6136,7 @@
           "locked": false,
           "name": "Suelo",
           "width": 0,
-          "x": 6016,
+          "x": 6080,
           "y": 256,
           "zOrder": 4,
           "numberProperties": [
@@ -6171,7 +6156,7 @@
           "locked": false,
           "name": "Suelo",
           "width": 0,
-          "x": 6080,
+          "x": 6144,
           "y": 256,
           "zOrder": 4,
           "numberProperties": [
@@ -6191,7 +6176,7 @@
           "locked": false,
           "name": "Plataforma",
           "width": 0,
-          "x": 6144,
+          "x": 6208,
           "y": 192,
           "zOrder": 4,
           "numberProperties": [
@@ -6211,7 +6196,7 @@
           "locked": false,
           "name": "Suelo",
           "width": 0,
-          "x": 6144,
+          "x": 6208,
           "y": 256,
           "zOrder": 4,
           "numberProperties": [
@@ -7841,7 +7826,7 @@
           "locked": false,
           "name": "Plataforma",
           "width": 64,
-          "x": 4352,
+          "x": 4416,
           "y": 256,
           "zOrder": 4,
           "numberProperties": [],
@@ -7856,7 +7841,7 @@
           "locked": false,
           "name": "Suelo",
           "width": 0,
-          "x": 4352,
+          "x": 4416,
           "y": 320,
           "zOrder": 4,
           "numberProperties": [],
@@ -7911,33 +7896,13 @@
           "locked": false,
           "name": "Suelo",
           "width": 0,
-          "x": 6208,
+          "x": 6272,
           "y": 256,
           "zOrder": 4,
           "numberProperties": [
             {
               "name": "animation",
               "value": 4
-            }
-          ],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": false,
-          "height": 0,
-          "layer": "",
-          "locked": false,
-          "name": "Suelo",
-          "width": 0,
-          "x": 6208,
-          "y": 320,
-          "zOrder": 4,
-          "numberProperties": [
-            {
-              "name": "animation",
-              "value": 7
             }
           ],
           "stringProperties": [],
@@ -7957,6 +7922,26 @@
           "numberProperties": [
             {
               "name": "animation",
+              "value": 7
+            }
+          ],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "Suelo",
+          "width": 0,
+          "x": 6336,
+          "y": 320,
+          "zOrder": 4,
+          "numberProperties": [
+            {
+              "name": "animation",
               "value": 8
             }
           ],
@@ -7971,7 +7956,7 @@
           "locked": false,
           "name": "Suelo",
           "width": 0,
-          "x": 5888,
+          "x": 5952,
           "y": 320,
           "zOrder": 4,
           "numberProperties": [
@@ -7991,7 +7976,7 @@
           "locked": false,
           "name": "Plataforma",
           "width": 64,
-          "x": 4416,
+          "x": 4480,
           "y": 256,
           "zOrder": 4,
           "numberProperties": [
@@ -8031,7 +8016,7 @@
           "locked": false,
           "name": "Plataforma",
           "width": 0,
-          "x": 6080,
+          "x": 6144,
           "y": 192,
           "zOrder": 4,
           "numberProperties": [
@@ -8051,7 +8036,7 @@
           "locked": false,
           "name": "Plataforma",
           "width": 64,
-          "x": 4608,
+          "x": 4672,
           "y": 192,
           "zOrder": 4,
           "numberProperties": [],
@@ -8086,44 +8071,9 @@
           "locked": false,
           "name": "Plataforma",
           "width": 64,
-          "x": 4864,
-          "y": 192,
-          "zOrder": 4,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "height": 64,
-          "layer": "",
-          "locked": false,
-          "name": "Plataforma",
-          "width": 64,
           "x": 4928,
           "y": 192,
           "zOrder": 4,
-          "numberProperties": [
-            {
-              "name": "animation",
-              "value": 4
-            }
-          ],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "height": 64,
-          "layer": "",
-          "locked": false,
-          "name": "Plataforma",
-          "width": 64,
-          "x": 5120,
-          "y": 192,
-          "zOrder": 4,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -8136,7 +8086,7 @@
           "locked": false,
           "name": "Plataforma",
           "width": 64,
-          "x": 5184,
+          "x": 5056,
           "y": 192,
           "zOrder": 4,
           "numberProperties": [
@@ -8156,7 +8106,7 @@
           "locked": false,
           "name": "Plataforma",
           "width": 64,
-          "x": 5376,
+          "x": 5312,
           "y": 192,
           "zOrder": 4,
           "numberProperties": [],
@@ -8171,7 +8121,7 @@
           "locked": false,
           "name": "Plataforma",
           "width": 64,
-          "x": 5440,
+          "x": 5504,
           "y": 192,
           "zOrder": 4,
           "numberProperties": [
@@ -8241,8 +8191,8 @@
           "locked": false,
           "name": "Plataforma",
           "width": 0,
-          "x": 5952,
-          "y": -256,
+          "x": 6720,
+          "y": 192,
           "zOrder": 4,
           "numberProperties": [
             {
@@ -8261,8 +8211,8 @@
           "locked": false,
           "name": "Plataforma",
           "width": 0,
-          "x": 6016,
-          "y": -256,
+          "x": 6784,
+          "y": 192,
           "zOrder": 4,
           "numberProperties": [
             {
@@ -8281,8 +8231,8 @@
           "locked": false,
           "name": "Plataforma",
           "width": 0,
-          "x": 6080,
-          "y": -256,
+          "x": 6848,
+          "y": 192,
           "zOrder": 4,
           "numberProperties": [
             {
@@ -8301,8 +8251,8 @@
           "locked": false,
           "name": "Suelo",
           "width": 0,
-          "x": 6080,
-          "y": -192,
+          "x": 6848,
+          "y": 256,
           "zOrder": 4,
           "numberProperties": [
             {
@@ -8321,8 +8271,8 @@
           "locked": false,
           "name": "Suelo",
           "width": 0,
-          "x": 6016,
-          "y": -192,
+          "x": 6784,
+          "y": 256,
           "zOrder": 4,
           "numberProperties": [
             {
@@ -8341,8 +8291,8 @@
           "locked": false,
           "name": "Suelo",
           "width": 0,
-          "x": 5952,
-          "y": -192,
+          "x": 6720,
+          "y": 256,
           "zOrder": 4,
           "numberProperties": [
             {
@@ -8361,8 +8311,8 @@
           "locked": false,
           "name": "Suelo",
           "width": 0,
-          "x": 5952,
-          "y": -128,
+          "x": 6720,
+          "y": 320,
           "zOrder": 4,
           "numberProperties": [
             {
@@ -8381,8 +8331,8 @@
           "locked": false,
           "name": "Suelo",
           "width": 0,
-          "x": 6016,
-          "y": -128,
+          "x": 6784,
+          "y": 320,
           "zOrder": 4,
           "numberProperties": [
             {
@@ -8401,8 +8351,8 @@
           "locked": false,
           "name": "Suelo",
           "width": 64,
-          "x": 6080,
-          "y": -128,
+          "x": 6848,
+          "y": 320,
           "zOrder": 4,
           "numberProperties": [
             {
@@ -9801,7 +9751,7 @@
           "locked": false,
           "name": "Plataforma",
           "width": 64,
-          "x": 4672,
+          "x": 4736,
           "y": 192,
           "zOrder": 4,
           "numberProperties": [
@@ -9821,7 +9771,7 @@
           "locked": false,
           "name": "Suelo",
           "width": 0,
-          "x": 5696,
+          "x": 5760,
           "y": 256,
           "zOrder": 4,
           "numberProperties": [
@@ -9841,7 +9791,7 @@
           "locked": false,
           "name": "Suelo",
           "width": 0,
-          "x": 5696,
+          "x": 5760,
           "y": 320,
           "zOrder": 4,
           "numberProperties": [
@@ -9861,7 +9811,7 @@
           "locked": false,
           "name": "Suelo",
           "width": 0,
-          "x": 5760,
+          "x": 5824,
           "y": 320,
           "zOrder": 4,
           "numberProperties": [
@@ -9881,7 +9831,7 @@
           "locked": false,
           "name": "Suelo",
           "width": 0,
-          "x": 4544,
+          "x": 4608,
           "y": 320,
           "zOrder": 4,
           "numberProperties": [
@@ -9901,7 +9851,7 @@
           "locked": false,
           "name": "Suelo",
           "width": 0,
-          "x": 4608,
+          "x": 4672,
           "y": 320,
           "zOrder": 4,
           "numberProperties": [
@@ -9921,7 +9871,7 @@
           "locked": false,
           "name": "Suelo",
           "width": 0,
-          "x": 4608,
+          "x": 4672,
           "y": 256,
           "zOrder": 4,
           "numberProperties": [],
@@ -9936,33 +9886,13 @@
           "locked": false,
           "name": "Suelo",
           "width": 0,
-          "x": 4672,
+          "x": 4736,
           "y": 256,
           "zOrder": 4,
           "numberProperties": [
             {
               "name": "animation",
               "value": 4
-            }
-          ],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": false,
-          "height": 0,
-          "layer": "",
-          "locked": false,
-          "name": "Suelo",
-          "width": 0,
-          "x": 4672,
-          "y": 320,
-          "zOrder": 4,
-          "numberProperties": [
-            {
-              "name": "animation",
-              "value": 7
             }
           ],
           "stringProperties": [],
@@ -9982,7 +9912,7 @@
           "numberProperties": [
             {
               "name": "animation",
-              "value": 8
+              "value": 7
             }
           ],
           "stringProperties": [],
@@ -10002,7 +9932,7 @@
           "numberProperties": [
             {
               "name": "animation",
-              "value": 5
+              "value": 8
             }
           ],
           "stringProperties": [],
@@ -10017,6 +9947,26 @@
           "name": "Suelo",
           "width": 0,
           "x": 4864,
+          "y": 320,
+          "zOrder": 4,
+          "numberProperties": [
+            {
+              "name": "animation",
+              "value": 5
+            }
+          ],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "Suelo",
+          "width": 0,
+          "x": 4928,
           "y": 320,
           "zOrder": 4,
           "numberProperties": [
@@ -10036,7 +9986,7 @@
           "locked": false,
           "name": "Suelo",
           "width": 0,
-          "x": 4864,
+          "x": 4928,
           "y": 256,
           "zOrder": 4,
           "numberProperties": [],
@@ -10051,7 +10001,7 @@
           "locked": false,
           "name": "Suelo",
           "width": 0,
-          "x": 4928,
+          "x": 5056,
           "y": 256,
           "zOrder": 4,
           "numberProperties": [
@@ -10071,7 +10021,7 @@
           "locked": false,
           "name": "Suelo",
           "width": 0,
-          "x": 4928,
+          "x": 5056,
           "y": 320,
           "zOrder": 4,
           "numberProperties": [
@@ -10091,7 +10041,7 @@
           "locked": false,
           "name": "Suelo",
           "width": 0,
-          "x": 4992,
+          "x": 5120,
           "y": 320,
           "zOrder": 4,
           "numberProperties": [
@@ -10111,7 +10061,7 @@
           "locked": false,
           "name": "Suelo",
           "width": 0,
-          "x": 5312,
+          "x": 5248,
           "y": 320,
           "zOrder": 4,
           "numberProperties": [
@@ -10131,7 +10081,7 @@
           "locked": false,
           "name": "Suelo",
           "width": 0,
-          "x": 5376,
+          "x": 5312,
           "y": 320,
           "zOrder": 4,
           "numberProperties": [
@@ -10151,7 +10101,7 @@
           "locked": false,
           "name": "Suelo",
           "width": 0,
-          "x": 5376,
+          "x": 5312,
           "y": 256,
           "zOrder": 4,
           "numberProperties": [],
@@ -10166,7 +10116,7 @@
           "locked": false,
           "name": "Suelo",
           "width": 0,
-          "x": 5440,
+          "x": 5504,
           "y": 256,
           "zOrder": 4,
           "numberProperties": [
@@ -10186,7 +10136,7 @@
           "locked": false,
           "name": "Suelo",
           "width": 0,
-          "x": 5440,
+          "x": 5504,
           "y": 320,
           "zOrder": 4,
           "numberProperties": [
@@ -10206,7 +10156,7 @@
           "locked": false,
           "name": "Suelo",
           "width": 0,
-          "x": 5504,
+          "x": 5568,
           "y": 320,
           "zOrder": 4,
           "numberProperties": [
@@ -11156,7 +11106,7 @@
           "locked": false,
           "name": "Decorado",
           "width": 0,
-          "x": 6080,
+          "x": 6144,
           "y": 256,
           "zOrder": 12,
           "numberProperties": [
@@ -11176,7 +11126,7 @@
           "locked": false,
           "name": "Decorado",
           "width": 0,
-          "x": 6080,
+          "x": 6144,
           "y": 320,
           "zOrder": 12,
           "numberProperties": [
@@ -11196,7 +11146,7 @@
           "locked": false,
           "name": "Decorado",
           "width": 0,
-          "x": 5696,
+          "x": 5760,
           "y": 192,
           "zOrder": 12,
           "numberProperties": [
@@ -11216,7 +11166,7 @@
           "locked": false,
           "name": "Decorado",
           "width": 0,
-          "x": 5696,
+          "x": 5760,
           "y": 256,
           "zOrder": 12,
           "numberProperties": [
@@ -11236,7 +11186,7 @@
           "locked": false,
           "name": "Decorado",
           "width": 0,
-          "x": 4672,
+          "x": 4736,
           "y": 128,
           "zOrder": 12,
           "numberProperties": [
@@ -11256,7 +11206,7 @@
           "locked": false,
           "name": "Decorado",
           "width": 0,
-          "x": 4672,
+          "x": 4736,
           "y": 192,
           "zOrder": 12,
           "numberProperties": [
@@ -11516,8 +11466,8 @@
           "locked": false,
           "name": "Plataforma",
           "width": 0,
-          "x": 5888,
-          "y": -256,
+          "x": 6464,
+          "y": 192,
           "zOrder": 4,
           "numberProperties": [],
           "stringProperties": [],
@@ -11731,8 +11681,723 @@
           "locked": false,
           "name": "Suelo",
           "width": 0,
-          "x": 5888,
-          "y": -192,
+          "x": 6464,
+          "y": 256,
+          "zOrder": 4,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "Suelo",
+          "width": 0,
+          "x": 6464,
+          "y": 320,
+          "zOrder": 4,
+          "numberProperties": [
+            {
+              "name": "animation",
+              "value": 6
+            }
+          ],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "Plataforma",
+          "width": 0,
+          "x": 6912,
+          "y": 192,
+          "zOrder": 4,
+          "numberProperties": [
+            {
+              "name": "animation",
+              "value": 4
+            }
+          ],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "Suelo",
+          "width": 0,
+          "x": 6912,
+          "y": 256,
+          "zOrder": 4,
+          "numberProperties": [
+            {
+              "name": "animation",
+              "value": 4
+            }
+          ],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "Suelo",
+          "width": 0,
+          "x": 6912,
+          "y": 320,
+          "zOrder": 4,
+          "numberProperties": [
+            {
+              "name": "animation",
+              "value": 7
+            }
+          ],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "Suelo",
+          "width": 0,
+          "x": 6912,
+          "y": 320,
+          "zOrder": 4,
+          "numberProperties": [
+            {
+              "name": "animation",
+              "value": 8
+            }
+          ],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "Suelo",
+          "width": 0,
+          "x": 6464,
+          "y": 320,
+          "zOrder": 4,
+          "numberProperties": [
+            {
+              "name": "animation",
+              "value": 5
+            }
+          ],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "Plataforma",
+          "width": 0,
+          "x": 7424,
+          "y": 384,
+          "zOrder": 4,
+          "numberProperties": [
+            {
+              "name": "animation",
+              "value": 2
+            }
+          ],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "Plataforma",
+          "width": 0,
+          "x": 7488,
+          "y": 384,
+          "zOrder": 4,
+          "numberProperties": [
+            {
+              "name": "animation",
+              "value": 3
+            }
+          ],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "Plataforma",
+          "width": 0,
+          "x": 7552,
+          "y": 384,
+          "zOrder": 4,
+          "numberProperties": [
+            {
+              "name": "animation",
+              "value": 1
+            }
+          ],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "Suelo",
+          "width": 0,
+          "x": 7360,
+          "y": 448,
+          "zOrder": 4,
+          "numberProperties": [
+            {
+              "name": "animation",
+              "value": 3
+            }
+          ],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "Suelo",
+          "width": 0,
+          "x": 7296,
+          "y": 448,
+          "zOrder": 4,
+          "numberProperties": [
+            {
+              "name": "animation",
+              "value": 3
+            }
+          ],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "Suelo",
+          "width": 0,
+          "x": 7424,
+          "y": 448,
+          "zOrder": 4,
+          "numberProperties": [
+            {
+              "name": "animation",
+              "value": 1
+            }
+          ],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "Plataforma",
+          "width": 0,
+          "x": 7168,
+          "y": 384,
+          "zOrder": 4,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "Suelo",
+          "width": 0,
+          "x": 7168,
+          "y": 448,
+          "zOrder": 4,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "Suelo",
+          "width": 0,
+          "x": 6976,
+          "y": 320,
+          "zOrder": 4,
+          "numberProperties": [
+            {
+              "name": "animation",
+              "value": 8
+            }
+          ],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "Suelo",
+          "width": 0,
+          "x": 6400,
+          "y": 320,
+          "zOrder": 4,
+          "numberProperties": [
+            {
+              "name": "animation",
+              "value": 5
+            }
+          ],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 128,
+          "layer": "",
+          "locked": false,
+          "name": "SerpienteFija",
+          "width": 128,
+          "x": 6464,
+          "y": 256,
+          "zOrder": 50,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "Plataforma",
+          "width": 0,
+          "x": 6528,
+          "y": 192,
+          "zOrder": 4,
+          "numberProperties": [
+            {
+              "name": "animation",
+              "value": 2
+            }
+          ],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "Plataforma",
+          "width": 0,
+          "x": 6592,
+          "y": 192,
+          "zOrder": 4,
+          "numberProperties": [
+            {
+              "name": "animation",
+              "value": 3
+            }
+          ],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "Plataforma",
+          "width": 0,
+          "x": 6656,
+          "y": 192,
+          "zOrder": 4,
+          "numberProperties": [
+            {
+              "name": "animation",
+              "value": 1
+            }
+          ],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "Suelo",
+          "width": 0,
+          "x": 6656,
+          "y": 256,
+          "zOrder": 4,
+          "numberProperties": [
+            {
+              "name": "animation",
+              "value": 3
+            }
+          ],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "Suelo",
+          "width": 0,
+          "x": 6592,
+          "y": 256,
+          "zOrder": 4,
+          "numberProperties": [
+            {
+              "name": "animation",
+              "value": 3
+            }
+          ],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "Suelo",
+          "width": 0,
+          "x": 6528,
+          "y": 256,
+          "zOrder": 4,
+          "numberProperties": [
+            {
+              "name": "animation",
+              "value": 1
+            }
+          ],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "Suelo",
+          "width": 0,
+          "x": 6528,
+          "y": 320,
+          "zOrder": 4,
+          "numberProperties": [
+            {
+              "name": "animation",
+              "value": 10
+            }
+          ],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "Suelo",
+          "width": 0,
+          "x": 6592,
+          "y": 320,
+          "zOrder": 4,
+          "numberProperties": [
+            {
+              "name": "animation",
+              "value": 11
+            }
+          ],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 64,
+          "layer": "",
+          "locked": false,
+          "name": "Suelo",
+          "width": 64,
+          "x": 6656,
+          "y": 320,
+          "zOrder": 4,
+          "numberProperties": [
+            {
+              "name": "animation",
+              "value": 9
+            }
+          ],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "Plataforma",
+          "width": 0,
+          "x": 7232,
+          "y": 512,
+          "zOrder": 4,
+          "numberProperties": [
+            {
+              "name": "animation",
+              "value": 2
+            }
+          ],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "Plataforma",
+          "width": 0,
+          "x": 7296,
+          "y": 512,
+          "zOrder": 4,
+          "numberProperties": [
+            {
+              "name": "animation",
+              "value": 3
+            }
+          ],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "Plataforma",
+          "width": 0,
+          "x": 7360,
+          "y": 512,
+          "zOrder": 4,
+          "numberProperties": [
+            {
+              "name": "animation",
+              "value": 1
+            }
+          ],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "Suelo",
+          "width": 0,
+          "x": 7680,
+          "y": 512,
+          "zOrder": 4,
+          "numberProperties": [
+            {
+              "name": "animation",
+              "value": 3
+            }
+          ],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "Suelo",
+          "width": 0,
+          "x": 7616,
+          "y": 512,
+          "zOrder": 4,
+          "numberProperties": [
+            {
+              "name": "animation",
+              "value": 3
+            }
+          ],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "Suelo",
+          "width": 0,
+          "x": 7552,
+          "y": 512,
+          "zOrder": 4,
+          "numberProperties": [
+            {
+              "name": "animation",
+              "value": 1
+            }
+          ],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "Suelo",
+          "width": 0,
+          "x": 8000,
+          "y": 512,
+          "zOrder": 4,
+          "numberProperties": [
+            {
+              "name": "animation",
+              "value": 10
+            }
+          ],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "Suelo",
+          "width": 0,
+          "x": 8064,
+          "y": 512,
+          "zOrder": 4,
+          "numberProperties": [
+            {
+              "name": "animation",
+              "value": 11
+            }
+          ],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 64,
+          "layer": "",
+          "locked": false,
+          "name": "Suelo",
+          "width": 64,
+          "x": 8128,
+          "y": 512,
+          "zOrder": 4,
+          "numberProperties": [
+            {
+              "name": "animation",
+              "value": 9
+            }
+          ],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "Plataforma",
+          "width": 0,
+          "x": 7168,
+          "y": 512,
+          "zOrder": 4,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "Suelo",
+          "width": 0,
+          "x": 7488,
+          "y": 512,
           "zOrder": 4,
           "numberProperties": [],
           "stringProperties": [],
@@ -11766,8 +12431,8 @@
           "locked": false,
           "name": "Plataforma",
           "width": 0,
-          "x": 6144,
-          "y": -256,
+          "x": 7424,
+          "y": 512,
           "zOrder": 4,
           "numberProperties": [
             {
@@ -11786,8 +12451,8 @@
           "locked": false,
           "name": "Suelo",
           "width": 0,
-          "x": 6144,
-          "y": -192,
+          "x": 7744,
+          "y": 512,
           "zOrder": 4,
           "numberProperties": [
             {
@@ -11824,6 +12489,121 @@
           "height": 0,
           "layer": "",
           "locked": false,
+          "name": "Plataforma",
+          "width": 0,
+          "x": 7488,
+          "y": 448,
+          "zOrder": 4,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "Plataforma",
+          "width": 0,
+          "x": 7552,
+          "y": 448,
+          "zOrder": 4,
+          "numberProperties": [
+            {
+              "name": "animation",
+              "value": 2
+            }
+          ],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "Plataforma",
+          "width": 0,
+          "x": 7616,
+          "y": 448,
+          "zOrder": 4,
+          "numberProperties": [
+            {
+              "name": "animation",
+              "value": 3
+            }
+          ],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "Plataforma",
+          "width": 0,
+          "x": 7680,
+          "y": 448,
+          "zOrder": 4,
+          "numberProperties": [
+            {
+              "name": "animation",
+              "value": 1
+            }
+          ],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "Plataforma",
+          "width": 0,
+          "x": 7744,
+          "y": 448,
+          "zOrder": 4,
+          "numberProperties": [
+            {
+              "name": "animation",
+              "value": 4
+            }
+          ],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "Suelo",
+          "width": 0,
+          "x": 5824,
+          "y": -128,
+          "zOrder": 4,
+          "numberProperties": [
+            {
+              "name": "animation",
+              "value": 5
+            }
+          ],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
           "name": "Suelo",
           "width": 0,
           "x": 6208,
@@ -11846,13 +12626,863 @@
           "locked": false,
           "name": "Suelo",
           "width": 0,
-          "x": 5824,
+          "x": 8128,
+          "y": 448,
+          "zOrder": 4,
+          "numberProperties": [
+            {
+              "name": "animation",
+              "value": 3
+            }
+          ],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "Suelo",
+          "width": 0,
+          "x": 8064,
+          "y": 448,
+          "zOrder": 4,
+          "numberProperties": [
+            {
+              "name": "animation",
+              "value": 3
+            }
+          ],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "Suelo",
+          "width": 0,
+          "x": 8000,
+          "y": 448,
+          "zOrder": 4,
+          "numberProperties": [
+            {
+              "name": "animation",
+              "value": 1
+            }
+          ],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "Suelo",
+          "width": 0,
+          "x": 5888,
+          "y": -192,
+          "zOrder": 4,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "Suelo",
+          "width": 0,
+          "x": 6144,
+          "y": -192,
+          "zOrder": 4,
+          "numberProperties": [
+            {
+              "name": "animation",
+              "value": 4
+            }
+          ],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "Plataforma",
+          "width": 0,
+          "x": 5888,
+          "y": -256,
+          "zOrder": 4,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "Plataforma",
+          "width": 0,
+          "x": 8000,
+          "y": 384,
+          "zOrder": 4,
+          "numberProperties": [
+            {
+              "name": "animation",
+              "value": 2
+            }
+          ],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "Plataforma",
+          "width": 0,
+          "x": 8064,
+          "y": 384,
+          "zOrder": 4,
+          "numberProperties": [
+            {
+              "name": "animation",
+              "value": 3
+            }
+          ],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "Plataforma",
+          "width": 0,
+          "x": 8128,
+          "y": 384,
+          "zOrder": 4,
+          "numberProperties": [
+            {
+              "name": "animation",
+              "value": 1
+            }
+          ],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "Plataforma",
+          "width": 0,
+          "x": 6144,
+          "y": -256,
+          "zOrder": 4,
+          "numberProperties": [
+            {
+              "name": "animation",
+              "value": 4
+            }
+          ],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "Plataforma",
+          "width": 0,
+          "x": 7616,
+          "y": 384,
+          "zOrder": 4,
+          "numberProperties": [
+            {
+              "name": "animation",
+              "value": 2
+            }
+          ],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "Suelo",
+          "width": 0,
+          "x": 7232,
+          "y": 448,
+          "zOrder": 4,
+          "numberProperties": [
+            {
+              "name": "animation",
+              "value": 1
+            }
+          ],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "Plataforma",
+          "width": 0,
+          "x": 7680,
+          "y": 384,
+          "zOrder": 4,
+          "numberProperties": [
+            {
+              "name": "animation",
+              "value": 3
+            }
+          ],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "Plataforma",
+          "width": 0,
+          "x": 7744,
+          "y": 384,
+          "zOrder": 4,
+          "numberProperties": [
+            {
+              "name": "animation",
+              "value": 1
+            }
+          ],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "Plataforma",
+          "width": 0,
+          "x": 7232,
+          "y": 384,
+          "zOrder": 4,
+          "numberProperties": [
+            {
+              "name": "animation",
+              "value": 2
+            }
+          ],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "Plataforma",
+          "width": 0,
+          "x": 7296,
+          "y": 384,
+          "zOrder": 4,
+          "numberProperties": [
+            {
+              "name": "animation",
+              "value": 3
+            }
+          ],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "Plataforma",
+          "width": 0,
+          "x": 7360,
+          "y": 384,
+          "zOrder": 4,
+          "numberProperties": [
+            {
+              "name": "animation",
+              "value": 1
+            }
+          ],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "Plataforma",
+          "width": 0,
+          "x": 4992,
+          "y": 192,
+          "zOrder": 4,
+          "numberProperties": [
+            {
+              "name": "animation",
+              "value": 2
+            }
+          ],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "Plataforma",
+          "width": 0,
+          "x": 5440,
+          "y": 192,
+          "zOrder": 4,
+          "numberProperties": [
+            {
+              "name": "animation",
+              "value": 3
+            }
+          ],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "Plataforma",
+          "width": 0,
+          "x": 6080,
+          "y": -256,
+          "zOrder": 4,
+          "numberProperties": [
+            {
+              "name": "animation",
+              "value": 1
+            }
+          ],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "Suelo",
+          "width": 0,
+          "x": 6080,
+          "y": -192,
+          "zOrder": 4,
+          "numberProperties": [
+            {
+              "name": "animation",
+              "value": 3
+            }
+          ],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "Suelo",
+          "width": 0,
+          "x": 5440,
+          "y": 256,
+          "zOrder": 4,
+          "numberProperties": [
+            {
+              "name": "animation",
+              "value": 3
+            }
+          ],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "Suelo",
+          "width": 0,
+          "x": 4992,
+          "y": 256,
+          "zOrder": 4,
+          "numberProperties": [
+            {
+              "name": "animation",
+              "value": 1
+            }
+          ],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "Suelo",
+          "width": 0,
+          "x": 4992,
+          "y": 320,
+          "zOrder": 4,
+          "numberProperties": [
+            {
+              "name": "animation",
+              "value": 10
+            }
+          ],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "Suelo",
+          "width": 0,
+          "x": 5440,
+          "y": 320,
+          "zOrder": 4,
+          "numberProperties": [
+            {
+              "name": "animation",
+              "value": 11
+            }
+          ],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 64,
+          "layer": "",
+          "locked": false,
+          "name": "Suelo",
+          "width": 64,
+          "x": 6080,
           "y": -128,
           "zOrder": 4,
           "numberProperties": [
             {
               "name": "animation",
-              "value": 5
+              "value": 9
+            }
+          ],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "Plataforma",
+          "width": 0,
+          "x": 7808,
+          "y": 384,
+          "zOrder": 4,
+          "numberProperties": [
+            {
+              "name": "animation",
+              "value": 2
+            }
+          ],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "Plataforma",
+          "width": 0,
+          "x": 7872,
+          "y": 384,
+          "zOrder": 4,
+          "numberProperties": [
+            {
+              "name": "animation",
+              "value": 3
+            }
+          ],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "Plataforma",
+          "width": 0,
+          "x": 7936,
+          "y": 384,
+          "zOrder": 4,
+          "numberProperties": [
+            {
+              "name": "animation",
+              "value": 1
+            }
+          ],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "Suelo",
+          "width": 0,
+          "x": 7936,
+          "y": 448,
+          "zOrder": 4,
+          "numberProperties": [
+            {
+              "name": "animation",
+              "value": 3
+            }
+          ],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "Suelo",
+          "width": 0,
+          "x": 7872,
+          "y": 448,
+          "zOrder": 4,
+          "numberProperties": [
+            {
+              "name": "animation",
+              "value": 3
+            }
+          ],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "Suelo",
+          "width": 0,
+          "x": 7808,
+          "y": 448,
+          "zOrder": 4,
+          "numberProperties": [
+            {
+              "name": "animation",
+              "value": 1
+            }
+          ],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "Suelo",
+          "width": 0,
+          "x": 7808,
+          "y": 512,
+          "zOrder": 4,
+          "numberProperties": [
+            {
+              "name": "animation",
+              "value": 10
+            }
+          ],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "Suelo",
+          "width": 0,
+          "x": 7872,
+          "y": 512,
+          "zOrder": 4,
+          "numberProperties": [
+            {
+              "name": "animation",
+              "value": 11
+            }
+          ],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 64,
+          "layer": "",
+          "locked": false,
+          "name": "Suelo",
+          "width": 64,
+          "x": 7936,
+          "y": 512,
+          "zOrder": 4,
+          "numberProperties": [
+            {
+              "name": "animation",
+              "value": 9
+            }
+          ],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "Plataforma",
+          "width": 0,
+          "x": 5376,
+          "y": 192,
+          "zOrder": 4,
+          "numberProperties": [
+            {
+              "name": "animation",
+              "value": 2
+            }
+          ],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "Suelo",
+          "width": 0,
+          "x": 5376,
+          "y": 256,
+          "zOrder": 4,
+          "numberProperties": [
+            {
+              "name": "animation",
+              "value": 1
+            }
+          ],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "Suelo",
+          "width": 0,
+          "x": 5376,
+          "y": 320,
+          "zOrder": 4,
+          "numberProperties": [
+            {
+              "name": "animation",
+              "value": 10
+            }
+          ],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "Plataforma",
+          "width": 0,
+          "x": 5952,
+          "y": -256,
+          "zOrder": 4,
+          "numberProperties": [
+            {
+              "name": "animation",
+              "value": 2
+            }
+          ],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "Plataforma",
+          "width": 0,
+          "x": 6016,
+          "y": -256,
+          "zOrder": 4,
+          "numberProperties": [
+            {
+              "name": "animation",
+              "value": 3
+            }
+          ],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "Suelo",
+          "width": 0,
+          "x": 6016,
+          "y": -192,
+          "zOrder": 4,
+          "numberProperties": [
+            {
+              "name": "animation",
+              "value": 3
+            }
+          ],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "Suelo",
+          "width": 0,
+          "x": 5952,
+          "y": -192,
+          "zOrder": 4,
+          "numberProperties": [
+            {
+              "name": "animation",
+              "value": 1
+            }
+          ],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "Suelo",
+          "width": 0,
+          "x": 5952,
+          "y": -128,
+          "zOrder": 4,
+          "numberProperties": [
+            {
+              "name": "animation",
+              "value": 10
+            }
+          ],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "Suelo",
+          "width": 0,
+          "x": 6016,
+          "y": -128,
+          "zOrder": 4,
+          "numberProperties": [
+            {
+              "name": "animation",
+              "value": 11
             }
           ],
           "stringProperties": [],
