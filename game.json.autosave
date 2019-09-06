@@ -450,6 +450,105 @@
         "name": "HitBoxEnemy-1-0.png",
         "smoothed": true,
         "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Marakame juego/sprites/enemigos/serp2/Orange_Static_Snake/sprite_0.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Marakame juego\\sprites\\enemigos\\serp2\\Orange_Static_Snake\\sprite_0.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Marakame juego/sprites/enemigos/serp2/Orange_Static_Snake/sprite_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Marakame juego\\sprites\\enemigos\\serp2\\Orange_Static_Snake\\sprite_1.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Marakame juego/sprites/enemigos/serp2/Orange_Static_Snake/sprite_2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Marakame juego\\sprites\\enemigos\\serp2\\Orange_Static_Snake\\sprite_2.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Marakame juego/sprites/enemigos/serp2/Orange_Static_Snake/sprite_3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Marakame juego\\sprites\\enemigos\\serp2\\Orange_Static_Snake\\sprite_3.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Marakame juego/sprites/enemigos/serp2/Orange_Static_Snake/sprite_4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Marakame juego\\sprites\\enemigos\\serp2\\Orange_Static_Snake\\sprite_4.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Marakame juego/sprites/enemigos/serp2/Orange_Static_Snake/sprite_5.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Marakame juego\\sprites\\enemigos\\serp2\\Orange_Static_Snake\\sprite_5.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Marakame juego/sprites/enemigos/serp2/Orange_Static_Snake/sprite_6.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Marakame juego\\sprites\\enemigos\\serp2\\Orange_Static_Snake\\sprite_6.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Marakame juego/sprites/enemigos/serp2/Orange_Static_Snake/sprite_7.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Marakame juego\\sprites\\enemigos\\serp2\\Orange_Static_Snake\\sprite_7.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "NewObject-1-0.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "NewObject-1-0.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "NewObject-1-1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "NewObject-1-1.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "NewObject-1-2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "NewObject-1-2.png",
+        "smoothed": true,
+        "userAdded": false
       }
     ],
     "resourceFolders": []
@@ -1374,7 +1473,7 @@
         "gridWidth": 64,
         "snap": true,
         "windowMask": false,
-        "zoomFactor": 1.792
+        "zoomFactor": 0.496
       },
       "objectsGroups": [],
       "variables": [],
@@ -2293,6 +2392,66 @@
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 128,
+          "layer": "",
+          "locked": false,
+          "name": "StaticSnake",
+          "width": 128,
+          "x": 1536,
+          "y": 384,
+          "zOrder": 10,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 90,
+          "customSize": true,
+          "height": 58,
+          "layer": "",
+          "locked": false,
+          "name": "HBStaticEnemy",
+          "width": 58,
+          "x": 1574,
+          "y": 449,
+          "zOrder": 9,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 64,
+          "layer": "",
+          "locked": false,
+          "name": "HBJumpingEnemy",
+          "width": 64,
+          "x": 1792,
+          "y": 448,
+          "zOrder": 11,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "HBFlyEnemy",
+          "width": 0,
+          "x": 896,
+          "y": 64,
+          "zOrder": 12,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
         }
       ],
       "objects": [
@@ -2736,61 +2895,60 @@
           ]
         },
         {
-          "bold": true,
-          "italic": false,
-          "name": "ScoreText",
-          "smoothed": true,
+          "name": "HitBoxPlayer",
           "tags": "",
-          "type": "TextObject::Text",
-          "underlined": false,
+          "type": "Sprite",
+          "updateIfNotVisible": false,
           "variables": [],
-          "behaviors": [],
-          "string": "Text",
-          "font": "",
-          "characterSize": 100,
-          "color": {
-            "b": 255,
-            "g": 255,
-            "r": 255
-          }
-        },
-        {
-          "bold": false,
-          "italic": false,
-          "name": "Start",
-          "smoothed": true,
-          "tags": "",
-          "type": "TextObject::Text",
-          "underlined": false,
-          "variables": [],
-          "behaviors": [],
-          "string": "Push any button to start",
-          "font": "",
-          "characterSize": 64,
-          "color": {
-            "b": 79,
-            "g": 157,
-            "r": 248
-          }
-        },
-        {
-          "bold": true,
-          "italic": false,
-          "name": "GameOver",
-          "smoothed": true,
-          "tags": "",
-          "type": "TextObject::Text",
-          "underlined": false,
-          "variables": [],
-          "behaviors": [],
-          "string": "Game Over",
-          "font": "",
-          "characterSize": 140,
-          "color": {
-            "b": 6,
-            "g": 6,
-            "r": 192
-          }
+          "behaviors": [
+            {
+              "name": "PlatformerObject",
+              "type": "PlatformBehavior::PlatformerObjectBehavior",
+              "acceleration": 1500,
+              "canGrabPlatforms": false,
+              "deceleration": 1500,
+              "gravity": 1000,
+              "ignoreDefaultControls": true,
+              "jumpSpeed": 600,
+              "maxFallingSpeed": 700,
+              "maxSpeed": 250,
+              "roundCoordinates": true,
+              "slopeMaxAngle": 60,
+              "xGrabTolerance": 10,
+              "yGrabOffset": 0
+            }
+          ],
+          "animations": [
+            {
+              "name": "NewObject",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "NewObject-1.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
         },
         {
           "name": "snake",
@@ -2800,6 +2958,8 @@
           "variables": [],
           "behaviors": [
             {
+              "name": "PlatformerObject",
+              "type": "PlatformBehavior::PlatformerObjectBehavior",
               "acceleration": 1500,
               "canGrabPlatforms": false,
               "deceleration": 1500,
@@ -2808,10 +2968,8 @@
               "jumpSpeed": 600,
               "maxFallingSpeed": 700,
               "maxSpeed": 250,
-              "name": "PlatformerObject",
               "roundCoordinates": true,
               "slopeMaxAngle": 60,
-              "type": "PlatformBehavior::PlatformerObjectBehavior",
               "xGrabTolerance": 10,
               "yGrabOffset": 0
             }
@@ -2912,7 +3070,334 @@
           ]
         },
         {
-          "name": "HitBoxPlayer",
+          "name": "HitBoxEnemy",
+          "tags": "",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "behaviors": [
+            {
+              "name": "PlatformerObject",
+              "type": "PlatformBehavior::PlatformerObjectBehavior",
+              "acceleration": 1500,
+              "canGrabPlatforms": false,
+              "deceleration": 1500,
+              "gravity": 1000,
+              "ignoreDefaultControls": true,
+              "jumpSpeed": 600,
+              "maxFallingSpeed": 700,
+              "maxSpeed": 250,
+              "roundCoordinates": true,
+              "slopeMaxAngle": 60,
+              "xGrabTolerance": 10,
+              "yGrabOffset": 0
+            }
+          ],
+          "animations": [
+            {
+              "name": "HitBoxEnemy",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "HitBoxEnemy-1-0.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "StaticSnake",
+          "tags": "",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Marakame juego\\sprites\\enemigos\\serp2\\Orange_Static_Snake\\sprite_0.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Marakame juego\\sprites\\enemigos\\serp2\\Orange_Static_Snake\\sprite_1.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Marakame juego\\sprites\\enemigos\\serp2\\Orange_Static_Snake\\sprite_2.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Marakame juego\\sprites\\enemigos\\serp2\\Orange_Static_Snake\\sprite_3.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Marakame juego\\sprites\\enemigos\\serp2\\Orange_Static_Snake\\sprite_4.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Marakame juego\\sprites\\enemigos\\serp2\\Orange_Static_Snake\\sprite_5.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Marakame juego\\sprites\\enemigos\\serp2\\Orange_Static_Snake\\sprite_6.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Marakame juego\\sprites\\enemigos\\serp2\\Orange_Static_Snake\\sprite_7.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "bold": true,
+          "italic": false,
+          "name": "GameOver",
+          "smoothed": true,
+          "tags": "",
+          "type": "TextObject::Text",
+          "underlined": false,
+          "variables": [],
+          "behaviors": [],
+          "string": "Game Over",
+          "font": "",
+          "characterSize": 140,
+          "color": {
+            "b": 6,
+            "g": 6,
+            "r": 192
+          }
+        },
+        {
+          "bold": false,
+          "italic": false,
+          "name": "Start",
+          "smoothed": true,
+          "tags": "",
+          "type": "TextObject::Text",
+          "underlined": false,
+          "variables": [],
+          "behaviors": [],
+          "string": "Push any button to start",
+          "font": "",
+          "characterSize": 64,
+          "color": {
+            "b": 79,
+            "g": 157,
+            "r": 248
+          }
+        },
+        {
+          "bold": true,
+          "italic": false,
+          "name": "ScoreText",
+          "smoothed": true,
+          "tags": "",
+          "type": "TextObject::Text",
+          "underlined": false,
+          "variables": [],
+          "behaviors": [],
+          "string": "Text",
+          "font": "",
+          "characterSize": 100,
+          "color": {
+            "b": 255,
+            "g": 255,
+            "r": 255
+          }
+        },
+        {
+          "name": "HBStaticEnemy",
+          "tags": "",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "behaviors": [
+            {
+              "name": "PlatformerObject",
+              "type": "PlatformBehavior::PlatformerObjectBehavior",
+              "acceleration": 1500,
+              "canGrabPlatforms": false,
+              "deceleration": 1500,
+              "gravity": 1000,
+              "ignoreDefaultControls": true,
+              "jumpSpeed": 600,
+              "maxFallingSpeed": 700,
+              "maxSpeed": 250,
+              "roundCoordinates": true,
+              "slopeMaxAngle": 60,
+              "xGrabTolerance": 10,
+              "yGrabOffset": 0
+            }
+          ],
+          "animations": [
+            {
+              "name": "NewObject",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "NewObject-1-0.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "HBJumpingEnemy",
           "tags": "",
           "type": "Sprite",
           "updateIfNotVisible": false,
@@ -2946,7 +3431,7 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "NewObject-1.png",
+                      "image": "NewObject-1-1.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -2968,7 +3453,7 @@
           ]
         },
         {
-          "name": "HitBoxEnemy",
+          "name": "HBFlyEnemy",
           "tags": "",
           "type": "Sprite",
           "updateIfNotVisible": false,
@@ -2993,7 +3478,7 @@
           ],
           "animations": [
             {
-              "name": "HitBoxEnemy",
+              "name": "NewObject",
               "useMultipleDirections": false,
               "directions": [
                 {
@@ -3002,7 +3487,7 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "HitBoxEnemy-1-0.png",
+                      "image": "NewObject-1-2.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -3079,6 +3564,32 @@
                 "HitBoxEnemy",
                 "180",
                 "30",
+                ""
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "AddForceAL"
+              },
+              "parameters": [
+                "HBJumpingEnemy",
+                "180",
+                "100",
+                ""
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "AddForceAL"
+              },
+              "parameters": [
+                "HBFlyEnemy",
+                "180",
+                "200",
                 ""
               ],
               "subInstructions": []
@@ -3174,7 +3685,55 @@
                   "subInstructions": []
                 }
               ],
-              "events": []
+              "events": [
+                {
+                  "disabled": false,
+                  "folded": false,
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "KeyPressed"
+                      },
+                      "parameters": [
+                        "",
+                        "Down"
+                      ],
+                      "subInstructions": []
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "RotateTowardAngle"
+                      },
+                      "parameters": [
+                        "HitBoxPlayer",
+                        "90",
+                        "0",
+                        "0"
+                      ],
+                      "subInstructions": []
+                    },
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "RotateTowardAngle"
+                      },
+                      "parameters": [
+                        "Player",
+                        "270",
+                        "0",
+                        ""
+                      ],
+                      "subInstructions": []
+                    }
+                  ],
+                  "events": []
+                }
+              ]
             },
             {
               "disabled": false,
@@ -3215,16 +3774,119 @@
                     "\"Idle\""
                   ],
                   "subInstructions": []
+                }
+              ],
+              "events": []
+            },
+            {
+              "disabled": false,
+              "folded": false,
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "KeyReleased"
+                  },
+                  "parameters": [
+                    "",
+                    "Down"
+                  ],
+                  "subInstructions": []
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "RotateTowardAngle"
+                  },
+                  "parameters": [
+                    "HitBoxPlayer",
+                    "0",
+                    "0",
+                    ""
+                  ],
+                  "subInstructions": []
                 },
                 {
                   "type": {
                     "inverted": false,
-                    "value": "MettreX"
+                    "value": "RotateTowardAngle"
+                  },
+                  "parameters": [
+                    "Player",
+                    "0",
+                    "0",
+                    ""
+                  ],
+                  "subInstructions": []
+                },
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "MettreY"
                   },
                   "parameters": [
                     "HitBoxPlayer",
                     "=",
-                    "78"
+                    "HitBoxPlayer.Y()-16"
+                  ],
+                  "subInstructions": []
+                }
+              ],
+              "events": []
+            },
+            {
+              "disabled": false,
+              "folded": false,
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "BuiltinCommonInstructions::And"
+                  },
+                  "parameters": [],
+                  "subInstructions": [
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "PosX"
+                      },
+                      "parameters": [
+                        "HBFlyEnemy",
+                        "<=",
+                        "704"
+                      ],
+                      "subInstructions": []
+                    },
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "PosY"
+                      },
+                      "parameters": [
+                        "HBFlyEnemy",
+                        "<=",
+                        "384"
+                      ],
+                      "subInstructions": []
+                    }
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "AddForceAL"
+                  },
+                  "parameters": [
+                    "HBFlyEnemy",
+                    "135",
+                    "GlobalVariable(speed)+100",
+                    ""
                   ],
                   "subInstructions": []
                 }
@@ -3405,6 +4067,28 @@
                 "HitBoxEnemy"
               ],
               "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "Cache"
+              },
+              "parameters": [
+                "HBStaticEnemy"
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "ActivateBehavior"
+              },
+              "parameters": [
+                "HBFlyEnemy",
+                "PlatformerObject",
+                ""
+              ],
+              "subInstructions": []
             }
           ],
           "events": []
@@ -3484,6 +4168,48 @@
                   },
                   "parameters": [
                     "HitBoxEnemy",
+                    "HitBoxPlayer",
+                    "",
+                    "",
+                    ""
+                  ],
+                  "subInstructions": []
+                },
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "CollisionNP"
+                  },
+                  "parameters": [
+                    "HBStaticEnemy",
+                    "HitBoxPlayer",
+                    "",
+                    "",
+                    ""
+                  ],
+                  "subInstructions": []
+                },
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "CollisionNP"
+                  },
+                  "parameters": [
+                    "HBJumpingEnemy",
+                    "HitBoxPlayer",
+                    "",
+                    "",
+                    ""
+                  ],
+                  "subInstructions": []
+                },
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "CollisionNP"
+                  },
+                  "parameters": [
+                    "HBFlyEnemy",
                     "HitBoxPlayer",
                     "",
                     "",
@@ -3621,6 +4347,20 @@
                 "HitBoxEnemy.Y()-110"
               ],
               "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "MettreXY"
+              },
+              "parameters": [
+                "StaticSnake",
+                "=",
+                "HBStaticEnemy.X()-32",
+                "=",
+                "HBStaticEnemy.Y()-70"
+              ],
+              "subInstructions": []
             }
           ],
           "events": []
@@ -3629,8 +4369,47 @@
           "disabled": false,
           "folded": false,
           "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [],
-          "actions": [],
+          "conditions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "Distance"
+              },
+              "parameters": [
+                "HitBoxPlayer",
+                "HBJumpingEnemy",
+                "128",
+                ""
+              ],
+              "subInstructions": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "PlatformBehavior::SimulateJumpKey"
+              },
+              "parameters": [
+                "HBJumpingEnemy",
+                "PlatformerObject"
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "AddForceAL"
+              },
+              "parameters": [
+                "HBJumpingEnemy",
+                "180",
+                "250",
+                ""
+              ],
+              "subInstructions": []
+            }
+          ],
           "events": []
         }
       ],
