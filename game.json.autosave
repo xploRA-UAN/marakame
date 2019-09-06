@@ -13,7 +13,7 @@
     "macExecutableFilename": "",
     "orientation": "landscape",
     "packageName": "com.example.gamename",
-    "projectFile": "D:\\Users\\Administrador\\Documents\\GDevelop projects\\marakame\\game.json",
+    "projectFile": "D:\\Desarrollo Videojuegos\\marakame\\game.json",
     "scaleMode": "nearest",
     "sizeOnStartupMode": "adaptWidth",
     "useExternalSourceFiles": false,
@@ -1260,6 +1260,20 @@
         "name": "ASSETS\\Enemigos\\Escorpion2\\escorpion2_5.png",
         "smoothed": true,
         "userAdded": false
+      },
+      {
+        "file": "Audio/venado azul - la cusinela.ogg",
+        "kind": "audio",
+        "metadata": "",
+        "name": "Audio\\venado azul - la cusinela.ogg",
+        "userAdded": true
+      },
+      {
+        "file": "Audio/Jump01.ogg",
+        "kind": "audio",
+        "metadata": "",
+        "name": "Audio\\Jump01.ogg",
+        "userAdded": true
       }
     ],
     "resourceFolders": []
@@ -22435,6 +22449,20 @@
                 "0"
               ],
               "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "PlaySound"
+              },
+              "parameters": [
+                "",
+                "Audio\\venado azul - la cusinela.ogg",
+                "yes",
+                "",
+                ""
+              ],
+              "subInstructions": []
             }
           ],
           "events": []
@@ -22523,6 +22551,20 @@
               "parameters": [
                 "Player",
                 "PlatformerObject"
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "PlaySound"
+              },
+              "parameters": [
+                "",
+                "Audio\\Jump01.ogg",
+                "",
+                "10",
+                ""
               ],
               "subInstructions": []
             }
